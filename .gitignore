@@ -1,0 +1,37 @@
+﻿# Android build artifacts
+build/
+captures/
+.gradle/
+local.properties
+
+# Gradle wrapper files
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Android Studio generated files
+.idea/
+*.iml
+.idea_modules/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Android Studio workspace metadata
+*.ipr
+*.iws
+
+# Gradle files
+**/build/
+.gradle/
+
+# Kotlin-specific
+*.kotlin_module
+
+# Proguard files
+proguard-rules.pro
+
+# Android Emulator
+*.qcow2
